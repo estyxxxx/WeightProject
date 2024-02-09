@@ -1,0 +1,80 @@
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightBL.deps.json
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightBL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightDTO.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightModel.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightDTO.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\bin\Debug\net6.0\WeightModel.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfo.cs
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CopyComplete
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\refint\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\WeightBL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightBL\obj\Debug\net6.0\ref\WeightBL.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfo.cs
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\refint\WeightBL.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.pdb
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.deps.json
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.pdb
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightModel.dll
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.pdb
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.pdb
+C:\Users\user\Documents\תכנות\Weight\WeightBL\bin\Debug\net6.0\WeightModel.pdb
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CopyComplete
+C:\Users\user\Documents\תכנות\Weight\WeightBL\obj\Debug\net6.0\ref\WeightBL.dll
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.dll
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\refint\WeightBL.dll
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.pdb
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.deps.json
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.dll
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.pdb
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.dll
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.dll
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightModel.dll
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.pdb
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.pdb
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightModel.pdb
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.AssemblyReference.cache
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.GeneratedMSBuildEditorConfig.editorconfig
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfoInputs.cache
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfo.cs
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CoreCompileInputs.cache
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CopyComplete
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\ref\WeightBL.dll
+E:\הגשות\Weight\WeightBL\bin\Debug\net6.0\WeightBL.runtimeconfig.json
+E:\הגשות\Weight\WeightBL\obj\Debug\net6.0\WeightBL.genruntimeconfig.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightBL.deps.json
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightBL.runtimeconfig.json
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightBL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightModel.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightDAL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightCORE.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\bin\Debug\net6.0\WeightModel.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.AssemblyInfo.cs
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.csproj.CopyComplete
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\refint\WeightBL.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\WeightBL.genruntimeconfig.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\‏‏תיקיה חדשה (2)\Weight\WeightBL\obj\Debug\net6.0\ref\WeightBL.dll

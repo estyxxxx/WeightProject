@@ -1,0 +1,12 @@
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\bin\Debug\net6.0\WeightDTO.deps.json
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\bin\Debug\net6.0\WeightDTO.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\bin\Debug\net6.0\WeightDTO.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.AssemblyInfo.cs
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\refint\WeightDTO.dll
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\WeightDTO.pdb
+Y:\Groups\Group_2\אלאלוף  אסתר\.Net\Weight\WeightDTO\obj\Debug\net6.0\ref\WeightDTO.dll
